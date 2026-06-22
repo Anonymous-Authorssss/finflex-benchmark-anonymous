@@ -1,0 +1,129 @@
+Design Name: aes_256
+========== Version and VT Counts ==========
+--- Version Statistics ---
+SMALL: 171182
+WIDE: 2312
+TALL: 102788
+COMBO: 2183
+--- VT Statistics ---
+R: 264875
+L: 7999
+SL: 5591
+=================================================
+
+Design Name: ariane136
+========== Version and VT Counts ==========
+--- Version Statistics ---
+SMALL: 88060
+WIDE: 3890
+TALL: 51270
+COMBO: 2420
+--- VT Statistics ---
+R: 90819
+L: 43608
+SL: 11213
+=================================================
+
+Design Name: hidden1
+========== Version and VT Counts ==========
+--- Version Statistics ---
+SMALL: 26260
+WIDE: 47
+TALL: 11197
+COMBO: 585
+--- VT Statistics ---
+R: 37093
+L: 407
+SL: 589
+=================================================
+
+Design Name: hidden2
+========== Version and VT Counts ==========
+--- Version Statistics ---
+SMALL: 89715
+WIDE: 4675
+TALL: 52269
+COMBO: 2604
+--- VT Statistics ---
+R: 95542
+L: 41991
+SL: 11730
+=================================================
+
+Design Name: hidden3
+========== Version and VT Counts ==========
+--- Version Statistics ---
+SMALL: 120965
+WIDE: 664
+TALL: 61109
+COMBO: 1997
+--- VT Statistics ---
+R: 178123
+L: 4074
+SL: 2538
+=================================================
+
+Design Name: hidden4
+========== Version and VT Counts ==========
+--- Version Statistics ---
+SMALL: 172257
+WIDE: 658
+TALL: 85592
+COMBO: 1976
+--- VT Statistics ---
+R: 251191
+L: 6037
+SL: 3255
+=================================================
+
+Design Name: hidden5
+========== Version and VT Counts ==========
+--- Version Statistics ---
+SMALL: 174357
+WIDE: 3875
+TALL: 104392
+COMBO: 1126
+--- VT Statistics ---
+R: 219336
+L: 51271
+SL: 13143
+=================================================
+
+Design Name: mempool_tile_wrap
+========== Version and VT Counts ==========
+--- Version Statistics ---
+SMALL: 118979
+WIDE: 2757
+TALL: 64118
+COMBO: 1977
+--- VT Statistics ---
+R: 134689
+L: 42678
+SL: 10464
+=================================================
+
+Design Name: NV_NVDLA_partition_m
+========== Version and VT Counts ==========
+--- Version Statistics ---
+SMALL: 11846
+WIDE: 2058
+TALL: 12516
+COMBO: 1133
+--- VT Statistics ---
+R: 11126
+L: 10005
+SL: 6422
+=================================================
+
+Design Name: NV_NVDLA_partition_p
+========== Version and VT Counts ==========
+--- Version Statistics ---
+SMALL: 50135
+WIDE: 1727
+TALL: 27000
+COMBO: 1057
+--- VT Statistics ---
+R: 63584
+L: 11840
+SL: 4495
+=================================================
